@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CreativeBoard/static/css/main.4e2a42a0.css",
+    "main.js": "/CreativeBoard/static/js/main.57ec2473.js",
+    "static/js/453.8222c1e7.chunk.js": "/CreativeBoard/static/js/453.8222c1e7.chunk.js",
+    "index.html": "/CreativeBoard/index.html",
+    "main.4e2a42a0.css.map": "/CreativeBoard/static/css/main.4e2a42a0.css.map",
+    "main.57ec2473.js.map": "/CreativeBoard/static/js/main.57ec2473.js.map",
+    "453.8222c1e7.chunk.js.map": "/CreativeBoard/static/js/453.8222c1e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e2a42a0.css",
+    "static/js/main.57ec2473.js"
+  ]
+}
